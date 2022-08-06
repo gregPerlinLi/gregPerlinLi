@@ -7,5 +7,5 @@
 
 ---
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://github.com/gregPerlinLi/gregPerlinLi/raw/main/github-metrics.svg)
 
