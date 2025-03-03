@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2567" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3066" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    83.7k added, 63.2k removed
+                                    71.8k added, 60k removed
                                 </div>
                             </section>
                             <section>
@@ -399,12 +399,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 7 commits)</small>
+                    <small class="h-details">(computed from last 9 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.2 characters per line of code written</li>
+                        <li>Has approximately 25.6 characters per line of code written</li>
                         <li>Mostly pushes code around 12:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -3294,12 +3294,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#3 Setup frontend scaffold</span>
+                                        <span class="issue">#4 dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by SamuNatsu in <span class="repo">gregPerlinLi/CertVault</span></div>
-                                    <div>18 files changed <span class="code">++2268 --0</span></div>
+                                    <div> in <span class="repo">gregPerlinLi/CertVault</span></div>
+                                    <div>52 files changed <span class="code">++1760 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3310,73 +3310,368 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
+                                        Pushed 20 commits in
                                         <span class="repo">gregPerlinLi/CertVault</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9460371</div>
-                                        <div class="message">Merge pull request #3 from gregPerlinLi/dev
-
-Setup frontend scaffold</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02d6b36</div>
-                                        <div class="message">chore: recreate vite system</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2e4a52</div>
-                                        <div class="message">chore: burnt out everything</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29bb041</div>
-                                        <div class="message">feat: add vueuse</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21292f7</div>
-                                        <div class="message">feat: add router</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0f9377</div>
-                                        <div class="message">feat: add primevue and tailwindcss</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8436033</div>
-                                        <div class="message">chore: initialize frontend scaffold</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">gregPerlinLi/CertVault</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#996b778</div>
-                                        <div class="message">Merge pull request #2 from gregPerlinLi/dev
+                                        <div class="sha">#48ac66b</div>
+                                        <div class="message">Merge pull request #4 from gregPerlinLi/dev
 
 dev</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#095d3a5</div>
-                                        <div class="message">feat(server): Add CertVault project configuration and dependencies
+                                        <div class="sha">#5e23c01</div>
+                                        <div class="message">feat(server): Add authentication controller to handle login logic
 
-- Add application.yml file to configure basic information and development environment of the Spring application
+- Add AuthController class to implement login functionality
+- Integrate IUserService interface for user verification
+- Use ResultVO to encapsulate return results
+- Set session attribute to save user information
+- Handle login failure scenarios and return corresponding error messages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1966d9b</div>
+                                        <div class="message">feat(server): Add MyBatis database configuration
 
-- Create pom.xml file to define the Maven project structure and dependencies
+- Add MyBatisConfig class, configure MyBatis Plus interceptor
+- Add pagination plugin, support MySQL database
+- Specify mapper scan package path</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0af905</div>
+                                        <div class="message">feat(server): Added a general utility class
 
-- Add multiple dependencies such as Spring Boot, MyBatis, Druid, etc., to realize functions such as Web services, data persistence, and monitoring</div>
+- Added the GenericUtils utility class, providing various practical methods
+- Implements time string generation, null value judgment, URL concatenation, and other functions
+- Provides methods for mutual conversion between entity classes and Maps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0da95cb</div>
+                                        <div class="message">feat(server): Add a universal return result object ResultVO
+
+- A new ResultVO class is added for unified return result encapsulation
+- Contains code, msg, and data fields to meet return needs in different scenarios
+- Provides a constructor for error results, facilitating exception handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7efba5e</div>
+                                        <div class="message">feat(server): Added UserDTO class for user information transmission
+
+- Added UserDTO class, including username and role information
+- Used for transmitting user data during login
+- Improved flexibility and maintainability of data transmission</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4662ef</div>
+                                        <div class="message">feat(server): Added LoginDTO class - Added the LoginDTO class for data transmission in the login function
+
+- Includes username and password fields
+- Provides a conversion constructor from the User entity class to LoginDTO</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e14fd64</div>
+                                        <div class="message">feat(service): Added user, role, certificate and related service interfaces and implementation classes
+
+- Added ICaBindingService, ICaService, ICertificateService, IRoleBindingService, IRoleService, IUserService and other service interfaces
+- Added CaBindingServiceImpl, CaServiceImpl, CertificateServiceImpl, RoleBindingServiceImpl, RoleServiceImpl, UserServiceImpl and other service implementation classes
+- Implemented user login functionality, including username and password verification and role permission acquisition
+- Used Redis to store user login status</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a87a933</div>
+                                        <div class="message">build: Update the .gitignore file
+
+- Add src/main/java/com/gregperlinli/certvault/generator directory to the ignore list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3ca25f</div>
+                                        <div class="message">feat(domain): Add Certificate Entity Class
+
+- Create the Certificate class to represent SSL certificate information
+- Include fields such as certificate ID, UUID, private key, certificate content, owner ID, etc.
+- Use MyBatis Plus annotations for database table mapping
+- Implement the Serializable interface to support serialization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e3cad8</div>
+                                        <div class="message">feat(server): Add authentication utility class
+
+- Added AuthUtils class, providing password encryption and matching functions
+- Implemented password encryption and matching methods using BCryptPasswordEncoder</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#463a89d</div>
+                                        <div class="message">feat(server): Add MyBatis Plus data access layer interface and mapping file
+
+- Added CaBindingMapper, CaMapper, CertificateMapper, RoleBindingMapper, RoleMapper, and UserMapper interfaces
+- Added corresponding XML mapping files
+- These interfaces and mapping files are used for interaction with database tables and implement basic CRUD operations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb7b211</div>
+                                        <div class="message">build: Update the .gitignore file
+
+- Add src/main/java/com/gregperlinli/certvault/generator directory to the ignore list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ed3435</div>
+                                        <div class="message">feat(server): Add WebConfig configuration class
+
+- Added WebConfig class to implement the WebMvcConfigurer interface
+- Used for configuring Spring MVC interceptors and other settings
+- The current implementation is empty, which can be extended for custom Web configuration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#001c568</div>
+                                        <div class="message">feat(server): Add required constant class for the project
+
+- Added GeneralConstant enumeration class, defining general constants
+- Added PrometheusConstant enumeration class, defining Prometheus-related constants
+- Added RedisKeyConstant enumeration class, defining Redis key prefix constants
+- Added ResultStatusCodeConstant enumeration class, defining return value status code constants</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#263a673</div>
+                                        <div class="message">feat(domain): Add entity classes related to CA, roles, and users
+
+- Add Ca class for CA list
+- Add CaBinding class for assigning CA users
+- Add Role class for permission management
+- Add RoleBinding class for permission binding
+- Add User class for user management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b7b826</div>
+                                        <div class="message">feat(server): Add development environment configuration file
+
+- Configure server port to 1888
+- Set database connection information
+- Configure Redis connection information
+- Configure log level
+- Set up Spring Boot Actuator endpoints
+- Configure Prometheus monitoring
+- Configure MyBatis-Plus</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae09e2b</div>
+                                        <div class="message">feat(exception): Add custom exception class
+
+- Added six custom exception classes: BusinessException, EncryptAndDecodeException, ForbiddenException, LoginException, ParamValidateException, and ServerException
+- These exception classes inherit from RuntimeException, used to handle different business scenarios and error types
+- Each exception class includes two properties: error code and error message
+- Provides parameterized and cause-based constructors for convenient creation and handling of exceptions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c67c46</div>
+                                        <div class="message">build(server): Upgrade MyBatis Plus and add new dependencies - Upgrade MyBatis Plus version from 3.5.5 to 3.5.10.1
+
+- Add dependencies mybatis-plus-jsqlparser, mybatis-plus-generator
+- Remove mybatis-spring dependency
+- Update bouncycastle related dependency versions to 1.70
+- Add dependencies hutool-all, jjwt, etc.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39e5b3b</div>
+                                        <div class="message">feat: Added CertVaultApplication startup class
+
+- Added CertVaultApplication class as the application entry point
+- Used @SpringBootApplication annotation to start the Spring Boot application
+- Added @MapperScan annotation to scan MyBatis Mapper interfaces</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#4 dev</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">gregPerlinLi/CertVault</span></div>
+                                    <div>52 files changed <span class="code">++1760 --11</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">gregPerlinLi/CertVault</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5e23c01</div>
+                                        <div class="message">feat(server): Add authentication controller to handle login logic
+
+- Add AuthController class to implement login functionality
+- Integrate IUserService interface for user verification
+- Use ResultVO to encapsulate return results
+- Set session attribute to save user information
+- Handle login failure scenarios and return corresponding error messages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1966d9b</div>
+                                        <div class="message">feat(server): Add MyBatis database configuration
+
+- Add MyBatisConfig class, configure MyBatis Plus interceptor
+- Add pagination plugin, support MySQL database
+- Specify mapper scan package path</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0af905</div>
+                                        <div class="message">feat(server): Added a general utility class
+
+- Added the GenericUtils utility class, providing various practical methods
+- Implements time string generation, null value judgment, URL concatenation, and other functions
+- Provides methods for mutual conversion between entity classes and Maps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0da95cb</div>
+                                        <div class="message">feat(server): Add a universal return result object ResultVO
+
+- A new ResultVO class is added for unified return result encapsulation
+- Contains code, msg, and data fields to meet return needs in different scenarios
+- Provides a constructor for error results, facilitating exception handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7efba5e</div>
+                                        <div class="message">feat(server): Added UserDTO class for user information transmission
+
+- Added UserDTO class, including username and role information
+- Used for transmitting user data during login
+- Improved flexibility and maintainability of data transmission</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4662ef</div>
+                                        <div class="message">feat(server): Added LoginDTO class - Added the LoginDTO class for data transmission in the login function
+
+- Includes username and password fields
+- Provides a conversion constructor from the User entity class to LoginDTO</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e14fd64</div>
+                                        <div class="message">feat(service): Added user, role, certificate and related service interfaces and implementation classes
+
+- Added ICaBindingService, ICaService, ICertificateService, IRoleBindingService, IRoleService, IUserService and other service interfaces
+- Added CaBindingServiceImpl, CaServiceImpl, CertificateServiceImpl, RoleBindingServiceImpl, RoleServiceImpl, UserServiceImpl and other service implementation classes
+- Implemented user login functionality, including username and password verification and role permission acquisition
+- Used Redis to store user login status</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a87a933</div>
+                                        <div class="message">build: Update the .gitignore file
+
+- Add src/main/java/com/gregperlinli/certvault/generator directory to the ignore list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3ca25f</div>
+                                        <div class="message">feat(domain): Add Certificate Entity Class
+
+- Create the Certificate class to represent SSL certificate information
+- Include fields such as certificate ID, UUID, private key, certificate content, owner ID, etc.
+- Use MyBatis Plus annotations for database table mapping
+- Implement the Serializable interface to support serialization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e3cad8</div>
+                                        <div class="message">feat(server): Add authentication utility class
+
+- Added AuthUtils class, providing password encryption and matching functions
+- Implemented password encryption and matching methods using BCryptPasswordEncoder</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#463a89d</div>
+                                        <div class="message">feat(server): Add MyBatis Plus data access layer interface and mapping file
+
+- Added CaBindingMapper, CaMapper, CertificateMapper, RoleBindingMapper, RoleMapper, and UserMapper interfaces
+- Added corresponding XML mapping files
+- These interfaces and mapping files are used for interaction with database tables and implement basic CRUD operations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb7b211</div>
+                                        <div class="message">build: Update the .gitignore file
+
+- Add src/main/java/com/gregperlinli/certvault/generator directory to the ignore list</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ed3435</div>
+                                        <div class="message">feat(server): Add WebConfig configuration class
+
+- Added WebConfig class to implement the WebMvcConfigurer interface
+- Used for configuring Spring MVC interceptors and other settings
+- The current implementation is empty, which can be extended for custom Web configuration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#001c568</div>
+                                        <div class="message">feat(server): Add required constant class for the project
+
+- Added GeneralConstant enumeration class, defining general constants
+- Added PrometheusConstant enumeration class, defining Prometheus-related constants
+- Added RedisKeyConstant enumeration class, defining Redis key prefix constants
+- Added ResultStatusCodeConstant enumeration class, defining return value status code constants</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#263a673</div>
+                                        <div class="message">feat(domain): Add entity classes related to CA, roles, and users
+
+- Add Ca class for CA list
+- Add CaBinding class for assigning CA users
+- Add Role class for permission management
+- Add RoleBinding class for permission binding
+- Add User class for user management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b7b826</div>
+                                        <div class="message">feat(server): Add development environment configuration file
+
+- Configure server port to 1888
+- Set database connection information
+- Configure Redis connection information
+- Configure log level
+- Set up Spring Boot Actuator endpoints
+- Configure Prometheus monitoring
+- Configure MyBatis-Plus</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae09e2b</div>
+                                        <div class="message">feat(exception): Add custom exception class
+
+- Added six custom exception classes: BusinessException, EncryptAndDecodeException, ForbiddenException, LoginException, ParamValidateException, and ServerException
+- These exception classes inherit from RuntimeException, used to handle different business scenarios and error types
+- Each exception class includes two properties: error code and error message
+- Provides parameterized and cause-based constructors for convenient creation and handling of exceptions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c67c46</div>
+                                        <div class="message">build(server): Upgrade MyBatis Plus and add new dependencies - Upgrade MyBatis Plus version from 3.5.5 to 3.5.10.1
+
+- Add dependencies mybatis-plus-jsqlparser, mybatis-plus-generator
+- Remove mybatis-spring dependency
+- Update bouncycastle related dependency versions to 1.70
+- Add dependencies hutool-all, jjwt, etc.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39e5b3b</div>
+                                        <div class="message">feat: Added CertVaultApplication startup class
+
+- Added CertVaultApplication class as the application entry point
+- Used @SpringBootApplication annotation to start the Spring Boot application
+- Added @MapperScan annotation to scan MyBatis Mapper interfaces</div>
                                     </div>
                                 </div>
                             </section>
@@ -3389,29 +3684,12 @@ dev</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#2 dev</span>
+                                        <span class="issue">#3 Setup frontend scaffold</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">gregPerlinLi/CertVault</span></div>
-                                    <div>4 files changed <span class="code">++139 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#2 dev</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">gregPerlinLi/CertVault</span></div>
-                                    <div>4 files changed <span class="code">++139 --0</span></div>
+                                    <div>opened by SamuNatsu in <span class="repo">gregPerlinLi/CertVault</span></div>
+                                    <div>18 files changed <span class="code">++2268 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3420,7 +3698,7 @@ dev</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2025, 01:15:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2025, 02:23:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
