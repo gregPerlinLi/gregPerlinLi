@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2416" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2982" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -84,7 +84,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            43250 Commits
+                            43276 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -96,7 +96,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            30 Pull requests opened
+                            31 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -174,7 +174,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    91 Releases
+                                    93 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -192,7 +192,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    225k added, 117k removed
+                                    183k added, 87.2k removed
                                 </div>
                             </section>
                             <section>
@@ -224,7 +224,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    755 views in last two weeks
+                                    793 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -241,20 +241,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 4.23mb of code in 3235 edited files across 1742 commits</small>
+                <small>estimation from 4.28mb of code in 3269 edited files across 1766 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.2333513102472" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="422.2333513102472" y="0" width="71.6390700747561" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="493.8724213850033" y="0" width="54.25218067423627" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="548.1246020592396" y="0" width="19.013419508450408" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="567.13802156769" y="0" width="11.716889601238268" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="578.8549111689282" y="0" width="8.48138731321257" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="587.3362984821408" y="0" width="2.1808157263227095" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="589.5171142084635" y="0" width="330.4828857915365" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.8639114421813" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="428.8639114421813" y="0" width="70.68479328024435" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="499.5487047224257" y="0" width="53.52950801789026" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="553.078212740316" y="0" width="18.760148981595474" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="571.8383617219114" y="0" width="11.560813373020201" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="583.3991750949316" y="0" width="8.368409979896834" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="591.7675850748284" y="0" width="2.1517659098110715" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="593.9193509846396" y="0" width="326.0806490153605" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -369,14 +369,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 81 commits)</small>
+                    <small class="h-details">(computed from last 84 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.6 characters per line of code written</li>
+                        <li>Has approximately 37.2 characters per line of code written</li>
                         <li>Mostly pushes code around 12:00</li>
-                        <li>Mostly active on Sunday</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -2400,10 +2400,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.75 0,2.75 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.75 1.7,3.75 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.583333333333334)">
+                            <g transform="translate(-10.2, 11.333333333333332)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4166666666666665 0,1.4166666666666667 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4166666666666667 1.7,2.4166666666666665 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z"/>
                             </g>
                         </g>
                     </g>
@@ -3153,7 +3153,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gregPerlinLi/CertVault</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔒⚙️CertVault —— A Self-Signed SSL Certificate Issuance and Management Platform</div>
@@ -3193,7 +3193,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        37
+                                        38
                                     </div>
                                 </div>
                             </section>
@@ -3355,84 +3355,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gregPerlinLi/certvault-charts</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#63752e8</div>
-                                        <div class="message">refactor(server): Optimize resource not found exception handling logic
-
-- Comment out the code line setting the response status code
-- Maintain the API request logic unchanged, and forward non-API requests to the page</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 40 commits in
                                         <span class="repo">gregPerlinLi/CertVault</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#22b9919</div>
-                                        <div class="message">refactor(server): Optimize resource not found exception handling logic
-
-- Comment out the code line setting the response status code
-- Maintain the API request logic unchanged, and forward non-API requests to the page</div>
-                                    </div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#b627c74</div>
                                         <div class="message">build(server): Update project version number
 
 - Change the project version number from 1.9.2 to 1.9.3</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">gregPerlinLi/certvault-charts</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a6c7c67</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/dev' into dev</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">gregPerlinLi/CertVault</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
                                         <div class="sha">#0a71118</div>
                                         <div class="message">Merge remote-tracking branch 'origin/dev' into dev</div>
@@ -3443,6 +3377,184 @@
 
 - Change the project version number from 1.9.1 to 1.9.2</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa349f0</div>
+                                        <div class="message">refactor(components): Improve code structure and readability
+
+- Add comments to clarify sections in App.vue and SignIn.vue
+- Move ErrorPlaceholer and LoadingPlaceholder to a dedicated placeholder directory
+- Update import paths to use alias @comps for consistency
+- Enhance AsyncDataTable with error handling and retry logic in CertMgr.vue and Security.vue
+- Remove redundant type attribute from InputText in SignIn.vue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85ea0be</div>
+                                        <div class="message">feat(components): Extract and refactor user table logic
+
+- Extract user table component from existing panels
+- Add new components for error and loading placeholders
+- Refactor bind users dialog to use new user table component
+- Refactor binding view to use new user table component
+- Refactor users view to use new user table component
+- Mark TODO items as completed in TODO.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77cf9b7</div>
+                                        <div class="message">feat(cert-binding): Add API for fetching non-bound users
+
+- Add `getAllCaNotBindedUsrs` API to fetch users not bound to a CA
+- Update `BindUsrsDlg.vue` to use the new API for fetching users
+- Mark "Get all users with filter of binded CA" as completed in TODO.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#932e5d7</div>
+                                        <div class="message">feat(server): Added interface for obtaining user information of unbound CA
+
+- Added getCaNotBoundUsers method, used to obtain user information not bound to a specified CA
+- Supports pagination queries, can search by username, display name, and email
+- The returned results include a list of user information and pagination data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76b7edd</div>
+                                        <div class="message">feat(ca): Added a feature to obtain the list of users with unbound CA certificates
+
+- Implemented the getNotBoundUsers method to obtain the list of users not bound to a specified CA certificate
+- Added user authentication and CA certificate existence check
+- Supports searching for users by keyword and returning results with pagination
+- Added interface definition and method implementation in the implementation class</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48b4eb7</div>
+                                        <div class="message">build(server): Update project version number
+
+- Change the version number of the server module from 1.9.0 to 1.9.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e56b04c</div>
+                                        <div class="message">feat(binding): Add user binding dialog and update TODO
+
+- Add `BindUsrsDlg` component for binding users to CA
+- Update `Binding.vue` to integrate the new dialog
+- Mark "Bind/Unbind CA/SSL to user" as completed in TODO
+- Add new issues for user filtering and component extraction</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffb8581</div>
+                                        <div class="message">refactor(SelectCa.vue): Remove unused user store dependency
+
+- Remove `useUserStore` import and `isAdmin` reactive property
+- Simplify `fetchFn` computed logic by removing admin check
+- Clean up unused code for better maintainability</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49b1c29</div>
+                                        <div class="message">feat(dashboard): Replace static header with Breadcrumb component
+
+- Add Breadcrumb component for better navigation
+- Remove static header and horizontal rule
+- Update welcome message styling for consistency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64fe990</div>
+                                        <div class="message">feat(CertMgr): Add PrimeVue paginator styling
+
+- Add `pt` prop to customize PrimeVue paginator root class
+- Set paginator root class to `rounded-none` for consistent styling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18a6141</div>
+                                        <div class="message">feat(components): Add SelectCa component and integrate it into existing views
+
+- Introduce SelectCa component for CA selection
+- Replace existing CA selection logic in ReqNewCertDlg with SelectCa
+- Update Binding view to use SelectCa for CA selection
+- Add warn method to useNotify composable for warning notifications
+- Remove redundant CA list fetching logic from views</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#371225b</div>
+                                        <div class="message">refactor(Users.vue): Simplify Users view component
+
+- Remove async component loading logic
+- Replace header with Breadcrumb component
+- Directly render UsrMgr component
+- Clean up template structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fff8a04</div>
+                                        <div class="message">refactor(certificates): Remove async component loading in certificate views
+
+- Replace `AsyncCertMgr` with direct `CertMgr` component usage
+- Remove `Suspense` and fallback loading spinner
+- Simplify code by eliminating async component imports</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6edd39c</div>
+                                        <div class="message">refactor(CertMgr.vue): Remove async component imports and usage
+
+- Replace async component imports with direct component usage
+- Simplify dialog component references in the template
+- Remove unnecessary async component definitions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d488f57</div>
+                                        <div class="message">refactor(profile): Rename dialog components and update references
+
+- Rename profile dialog components to include "Dlg" suffix
+- Update component references in Profile.vue
+- Rename `invalid` to `newPasswordInvalid` for clarity
+- Adjust event handler from `@change` to `@focus` for password input</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e71e328</div>
+                                        <div class="message">fix(Binding.vue): Add null check for caList.selection
+
+- Prevent potential runtime errors by checking if caList.selection is null
+- Ensure getAllCaBindedUsrs is only called with a valid selection
+- Improve code robustness in the refreshUser function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fcc670</div>
+                                        <div class="message">chore(dependencies): Update Vite to version 6.3.2
+
+- Upgrade Vite dependency from 6.3.1 to 6.3.2
+- Ensure compatibility with latest Vite features and fixes
+- Maintain project dependencies up-to-date</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#38 Dependency Updates, Component Refactoring, and UI Enhancements</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">gregPerlinLi/CertVault</span></div>
+                                    <div>56 files changed <span class="code">++1608 --834</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#38 Dev</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">gregPerlinLi/CertVault</span></div>
+                                    <div>56 files changed <span class="code">++1608 --834</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3460,12 +3572,166 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#85349c1</div>
-                                        <div class="message">feat(server): Added interface for obtaining user information of unbound CA
+                                        <div class="sha">#4f58409</div>
+                                        <div class="message">feat(server): Add algorithm and key length compatibility verification for certificates and private keys
 
-- Added getCaNotBoundUsers method, used to obtain user information not bound to a specified CA
-- Supports pagination queries, can search by username, display name, and email
-- The returned results include a list of user information and pagination data</div>
+- Add compatibility verification for the algorithm and key length of private keys and certificates when importing CA certificates
+- Support compatibility between ECDSA and EC, EdDSA and Ed25519 algorithms
+- Add relevant logic to CaServiceImpl and CertificateServiceImpl</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">gregPerlinLi/CertVault</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#29ab398</div>
+                                        <div class="message">feat(server): Add algorithm and key length compatibility verification for certificates and private keys
+
+- Add compatibility verification for the algorithm and key length of private keys and certificates when importing CA certificates
+- Support compatibility between ECDSA and EC, EdDSA and Ed25519 algorithms
+- Add relevant logic to CaServiceImpl and CertificateServiceImpl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43d155c</div>
+                                        <div class="message">feat(server): Add algorithm and key size fields for CA and certificate information
+
+- Add algorithm and keySize fields to CaInfoDTO
+- Add algorithm, keySize, caUuid, etc. fields to CertInfoDTO
+- Add corresponding Swagger annotations for all newly added fields</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d18bf80</div>
+                                        <div class="message">feat(dto): Add algorithm and key size fields to ResponseCaDTO and ResponseCertDTO
+
+- Add algorithm and keySize fields to ResponseCaDTO and ResponseCertDTO
+- Update the constructor to initialize the new fields
+- Add OpenAPI Schema annotations for the new fields</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68c94d3</div>
+                                        <div class="message">feat(server): Add certificate request parameters
+
+- Add the algorithm field in RequestCertDTO to specify the algorithm type
+- Add the keySize field in RequestCertDTO to specify the key length</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8c54fd</div>
+                                        <div class="message">feat(utils): Add auxiliary methods for obtaining certificate and private key information
+
+- Added method for obtaining the certificate key algorithm
+- Added method for obtaining the private key algorithm
+- Added method for obtaining the certificate key length
+- Added method for obtaining the private key key length</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c725d44</div>
+                                        <div class="message">fix(server): Add exception handling for NoSuchAlgorithmException
+
+- Add handling logic for NoSuchAlgorithmException in the global exception handler
+- Set the corresponding status code and error message
+- Optimize the readability and maintainability of exception handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#108946a</div>
+                                        <div class="message">fix: Modify filename case</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08c8dbd</div>
+                                        <div class="message">fix(certificate): Optimize the public and private key signature verification algorithm
+
+- Modify the selection logic of the signature algorithm to adapt to different public key algorithms
+- For RSA algorithm, use SHA256withRSA
+- For EC algorithm, use ECDSA
+- This improvement enhances the compatibility and security of the public and private key pairs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b9763d</div>
+                                        <div class="message">feat(server): Added serialization support for ECPoint and ECMultiplier
+
+- Custom serializers for ECPoint and ECMultiplier were added to the Jackson configuration
+- New serializer classes: ECPointSerializer and ECMultiplierSerializer were introduced
+- These modifications enable the server to correctly handle data structures related to elliptic curve cryptography</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b03c09f</div>
+                                        <div class="message">feat(serializer): Add ECPoint serializer
+
+- Implemented a custom ECPointSerializer to serialize ECPoint objects into JSON format
+- Handled cases of infinity point and normalized coordinates
+- Used reflection to call the protected method getCurveCoordinateSystem
+- Ensured that ECFieldElement can be correctly converted to BigInteger and serialized</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a6e2c6</div>
+                                        <div class="message">feat(server): Add ECMultiplier serializer and test certificate utility class
+
+- Add ECMultiplierSerializer class, used for serializing ECMultiplier objects
+- Add TestCertUtils class, providing test methods for certificate and private key parsing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be173a2</div>
+                                        <div class="message">fix: Modify filename case</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b556ed6</div>
+                                        <div class="message">feat(server): Add certificate generation algorithm and key length parameters
+
+- Add the algorithm and keySize fields to the CaGenRequest and CertGenRequest entities
+- Add the algorithm and keySize fields to the GenResponse entity and set the relevant values when generating CA and certificates
+- Add algorithm and keySize parameters initialization to the CaGenRequest constructor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6aaab7e</div>
+                                        <div class="message">feat(certificate): Support ECC and Ed25519 algorithms for generating SSL certificates
+
+- Add support for ECC and Ed25519 algorithms
+- Implement logic to select appropriate key lengths based on different algorithms
+- Add signature algorithm selection logic, supporting multiple algorithms
+- Optimize certificate generation response, adding algorithm and key length information</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#542fa71</div>
+                                        <div class="message">feat(certificate): Support for CA certificate generation and renewal with ECC and Ed25519 algorithms
+
+- Added support for ECC and Ed25519 algorithms
+- Implemented the function of automatically selecting the sub-CA certificate algorithm based on the parent CA certificate algorithm
+- Optimized the key pair generation logic, supporting different algorithms and key lengths
+- Updated the signature builder logic, selecting the appropriate signature algorithm based on the algorithm
+- Added algorithm and key length information to the generation and renewal responses</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85f4890</div>
+                                        <div class="message">feat(server): Add algorithm and key length fields for CA and certificate
+
+- Add the algorithm and keySize fields to the Ca and Certificate entities
+- Used to store signature/certificate algorithm and key length information</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf3ec24</div>
+                                        <div class="message">feat(database): Add certificate signature algorithm and key length fields
+
+- Add the algorithm and key_size fields to the ca and certificate tables
+- Add comments to all table columns to improve the readability and maintainability of the database structure
+- Correct the spelling error in the constraint name of the certificate table</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea89c39</div>
+                                        <div class="message">build(server): Upgrade Spring Boot version and update the project version number
+
+- Upgrade Spring Boot version from 3.4.3 to 3.4.4
+- Change the project version number from 1.9.3 to 2.0.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -3475,7 +3741,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2025, 00:19:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2025, 01:16:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
