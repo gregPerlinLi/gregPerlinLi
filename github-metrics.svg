@@ -3166,7 +3166,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gdut-network-manager/mirrors-gdut</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GDUT开源镜像站</div>
@@ -3219,7 +3219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gdut-network-manager/mirrors-gdut-docs</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">广工开源镜像站文档</div>
@@ -3272,7 +3272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gdut-network-manager/gdut-speedtest</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">广东工业大学测速网站源码</div>
@@ -3325,7 +3325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gdut-network-manager/mirrors-gdut-registry-browser</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">广工镜像站容器镜像库浏览器</div>
@@ -3491,7 +3491,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2026, 18:37:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Aug 2026, 21:01:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
