@@ -84,7 +84,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            44088 Commits
+                            44096 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -235,20 +235,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.93mb of code in 5128 edited files across 2402 commits</small>
+                <small>estimation from 7.95mb of code in 5138 edited files across 2410 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.30768836441214" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="226.30768836441214" y="0" width="100.17972549188002" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="326.48741385629216" y="0" width="85.57416655765034" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="412.06158041394247" y="0" width="37.504980631708875" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.5665610456513" y="0" width="36.86125499602715" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="486.42781604167845" y="0" width="23.85398535419656" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="510.281801395875" y="0" width="7.735732424985945" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="518.017533820861" y="0" width="401.982466179139" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="225.72660411528318" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="225.72660411528318" y="0" width="101.12462670622791" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="326.8512308215111" y="0" width="85.35444003983571" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="412.2056708613468" y="0" width="37.4086800876731" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.61435094901987" y="0" width="36.766607329232784" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="486.3809582782526" y="0" width="23.792736108673996" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="510.17369438692657" y="0" width="7.715869590010594" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="517.8895639769371" y="0" width="402.11043602306273" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3293,7 +3293,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                         </svg>
-                                        GNU LGPLv2.1
+                                        GNU LGPLv3
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3384,7 +3384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gregPerlinLi/mirrors-gdut</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GDUT开源镜像站</div>
@@ -3497,7 +3497,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2026, 20:51:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2026, 23:12:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
