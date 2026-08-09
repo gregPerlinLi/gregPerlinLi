@@ -235,20 +235,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 9.24mb of code in 5218 edited files across 2444 commits</small>
+                <small>estimation from 9.24mb of code in 5229 edited files across 2445 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.03074219600288" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="186.03074219600288" y="0" width="89.36418634998776" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="275.39492854599064" y="0" width="70.34416653087716" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="345.7390950768678" y="0" width="49.46176872222557" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="395.2008637990934" y="0" width="30.300899959461535" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="425.5017637585549" y="0" width="22.468867947890214" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="447.97063170644515" y="0" width="7.156108126478379" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.1267398329235" y="0" width="464.8732601670765" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.9681515603974" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="185.9681515603974" y="0" width="89.56425893382362" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="275.532410494221" y="0" width="70.32049901204488" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="345.85290950626586" y="0" width="49.445127152633624" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="395.2980366588995" y="0" width="30.290705125180416" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="425.5887417840799" y="0" width="22.47288440357587" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="448.0616261876558" y="0" width="7.153700431111416" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.2153266187672" y="0" width="464.7846733812328" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3402,7 +3402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gregPerlinLi/mirrors-gdut</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GDUT开源镜像站</div>
@@ -3515,7 +3515,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2026, 20:47:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Aug 2026, 21:49:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
