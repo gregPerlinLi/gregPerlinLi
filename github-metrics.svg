@@ -84,7 +84,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            44417 Commits
+                            44418 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -218,7 +218,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    19 views in last two weeks
+                                    20 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -235,20 +235,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 9.78mb of code in 5589 edited files across 2601 commits</small>
+                <small>estimation from 9.78mb of code in 5590 edited files across 2602 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.11484308845453" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="175.11484308845453" y="0" width="86.2802172646166" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="261.3950603530711" y="0" width="66.21651636084987" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="327.61157671392095" y="0" width="48.85378941301849" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="376.4653661269395" y="0" width="28.522905833754578" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="404.988271960694" y="0" width="26.995402927985214" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="431.9836748886792" y="0" width="7.822231952837995" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="439.8059068415172" y="0" width="480.19409315848276" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.11294868940112" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="175.11294868940112" y="0" width="86.27928388193452" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="261.3922325713356" y="0" width="66.21580002804963" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="327.60803259938524" y="0" width="48.85326091086078" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="376.46129351024604" y="0" width="28.522597271871078" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="404.98389078211716" y="0" width="27.005063485785676" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="431.98895426790284" y="0" width="7.8221473316343" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="439.8111015995371" y="0" width="480.18889840046296" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3315,7 +3315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GTNewHorizons/Angelica</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OptiFine replacement for 1.7.10</div>
@@ -3342,7 +3342,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        168
+                                        169
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3368,7 +3368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GTNewHorizons/lwjgl3ify</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A mod to run Minecraft 1.7.10 using LWJGL3 and Java 17+</div>
@@ -3421,7 +3421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GTNewHorizons/GT-New-Horizons-Modpack</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A big progressive questing modpack for Minecraft 1.7.10 balanced around the mod GregTech.</div>
@@ -3590,7 +3590,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2026, 13:51:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2026, 19:16:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
