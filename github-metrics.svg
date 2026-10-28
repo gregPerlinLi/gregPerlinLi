@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -84,7 +84,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            44446 Commits
+                            44449 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -96,7 +96,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            121 Pull requests opened
+                            122 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -235,20 +235,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 9.81mb of code in 5661 edited files across 2626 commits</small>
+                <small>estimation from 9.81mb of code in 5671 edited files across 2628 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.59880832197138" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="174.59880832197138" y="0" width="87.12237826082601" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="261.7211865827974" y="0" width="66.02138713048338" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="327.74257371328076" y="0" width="48.70982529571731" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="376.4523990089981" y="0" width="28.43885350105821" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="404.8912525100563" y="0" width="27.43446631176395" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="432.32571882182026" y="0" width="7.799181116210053" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="440.1248999380303" y="0" width="479.87510006196976" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.50140342280906" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="174.50140342280906" y="0" width="87.51299309896623" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="262.01439652177527" y="0" width="65.9845552264297" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="327.998951748205" y="0" width="48.68265113761885" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="376.68160288582385" y="0" width="28.42298807972925" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="405.1045909655531" y="0" width="27.463673416691254" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="432.56826438224437" y="0" width="7.7948301217360685" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="440.36309450398045" y="0" width="479.63690549601955" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3333,7 +3333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GTNewHorizons/Angelica</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OptiFine replacement for 1.7.10</div>
@@ -3386,7 +3386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GTNewHorizons/lwjgl3ify</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A mod to run Minecraft 1.7.10 using LWJGL3 and Java 17+</div>
@@ -3420,13 +3420,13 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        246
+                                        247
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        137
+                                        138
                                     </div>
                                 </div>
                             </section>
@@ -3439,7 +3439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GTNewHorizons/GT-New-Horizons-Modpack</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A big progressive questing modpack for Minecraft 1.7.10 balanced around the mod GregTech.</div>
@@ -3608,7 +3608,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2026, 12:12:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2026, 18:59:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
